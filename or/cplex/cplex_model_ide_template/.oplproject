@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="ASCII"?><project>
+    	
+    <version>1.0</version>
+    	
+    <configs>
+        		
+        <config default="true" name="peizhi" category="opl">
+            			
+            <ref name="first.mod" type="model">
+			</ref>
+            		
+        </config>
+        		
+        <config default="false" name="second" category="opl">
+            			
+            <ref name="second.mod" type="model">
+			</ref>
+            		
+        </config>
+        		
+        <config default="false" name="third" category="opl">
+            			
+            <ref name="third.mod" type="model">
+			</ref>
+            		
+        </config>
+        	
+    </configs>
+    	
+
+</project>
