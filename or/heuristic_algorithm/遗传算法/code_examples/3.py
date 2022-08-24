@@ -2,10 +2,7 @@
 # @FileName: 3.py
 # @Time: 2022/8/23 19:10
 # @Author: QHB
-# coding: utf-8
-# @FileName: 2.py
-# @Time: 2022/8/23 15:07
-# @Author: QHB
+
 """
 example_3:
 非线性函数最优化问题求解_三元
@@ -203,9 +200,10 @@ class GA:
         y = []
         z = []
         for i in range(self.population):
+            # uniform()的值与 x y z 的取值范围有直接关系
             x.append(round(uniform(0, 10), self.dec_num))
             y.append(round(uniform(0, 10), self.dec_num))
-            z.append(round(uniform(0, 10), self.dec_num))
+            z.append(round(uniform(0, 5), self.dec_num))
         self.X = x
         self.Y = y
         self.Z = z
