@@ -4,9 +4,11 @@
 # @Author: QHB
 
 """
+
 NSGA Ⅱ 带精英策略的非支配排序遗传算法求解多目标优化问题
 
 """
+# todo 待整理 多目标和pareto最优暂时没理清
 
 import math
 import random
