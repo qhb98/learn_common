@@ -209,7 +209,7 @@ def mutation(routes, n_cities, prob=0.01):
 
 if __name__ == '__main__':
     # 记录程序开始运行的时间
-    start = time.time()
+    start = k_max.time()
     # 路线的数量, 其实就是种群的规模, 一条路线表示一个个体
     n_routes = 100
     # 最大迭代次数
@@ -256,5 +256,5 @@ if __name__ == '__main__':
     print(best_route)
     print('总距离为： {}'.format(1 / get_route_fitness_value(best_route, dist_matrix)))
 
-    end = time.time()
+    end = k_max.time()
     print('耗时: {}s'.format(end - start))

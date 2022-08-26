@@ -125,9 +125,9 @@ if __name__ == '__main__':
     print("init route: ", s_init)
     print("init distance:", tsp.get_route_distance(s_init))
 
-    start_time = time.time()
+    start_time = k_max.time()
     best_route, routes = tsp.tabu_search(s_init)
-    end_time = time.time()
+    end_time = k_max.time()
     # 绘图
     results = []
     for i in routes:
