@@ -3,7 +3,7 @@
 
 
 ### 一、基本概念
-差分进化算法(Differential Evolution，DE)于1997年由Rainer Storn和Kenneth Price在遗传算法等进化思想的基础上提出的, 
+差分进化算法(Differential Evolution，DifferentialEvolution)于1997年由Rainer Storn和Kenneth Price在遗传算法等进化思想的基础上提出的, 
 本质是一种多目标(连续变量)优化算法(MOEAs), 用于求解多维空间中整体最优解.
 
 差分进化算法相对于遗传算法而言, 相同点都是通过随机生成初始种群, 以种群中每个个体的适应度值为选择标准, 

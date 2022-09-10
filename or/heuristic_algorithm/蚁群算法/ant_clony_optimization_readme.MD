@@ -44,8 +44,8 @@ beta ±íÊ¾Æô·¢º¯ÊıÖØÒª³Ì¶ÈÒò×Ó, ÖµÔ½´ó, ±íÊ¾Æô·¢º¯ÊıÔÚ×ªÒÆÖĞµÄ×÷ÓÃÔ½´ó, ¼´ÂìÒÏ»áÒ
     theta_ij(t+1) = (1 - rou) theta_ij(t) + derta theta_ij
     derta theta_ij = sum_k(derta theta_k_ij)
 
-derta theta_k_ij ±íÊ¾µÚkÖ»ÂìÒÏÔÚ³ÇÊĞiÓë³ÇÊĞjÁ¬½ÓÂ·¾¶ÉÏÁ¬½ÓÂ·¾¶ÉÏÊÍ·ÅµÄĞÅÏ¢ËØÅ¨¶È  
-derta theta_ij ±íÊ¾ËùÓĞÂìÒÏÔÚ³ÇÊĞiÓë³ÇÊĞjÁ¬½ÓÂ·¾¶ÉÏÊÍ·ÅµÄĞÅÏ¢ËØÅ¨¶ÈÖ®ºÍ  
+derta theta_k_ij ±íÊ¾µÚkÖ»ÂìÒÏÔÚ³ÇÊĞiÓë³ÇÊĞjÁ¬½ÓÂ·¾¶ÉÏÁ¬½ÓÂ·¾¶ÉÏÊÍ·ÅµÄĞÅÏ¢ËØÅ¨¶È²îÒì  
+derta theta_ij ±íÊ¾ËùÓĞÂìÒÏÔÚ³ÇÊĞiÓë³ÇÊĞjÁ¬½ÓÂ·¾¶ÉÏÊÍ·ÅµÄĞÅÏ¢ËØÅ¨¶È²îÒìµÄºÍ  
 
 
 Ëã·¨Á÷³Ì:
@@ -88,4 +88,6 @@ L_kÎªµÚkÖ»ÂìÒÏ¾­¹ıÂ·¾¶µÄ³¤¶È
 
 
 ### ²Î¿¼×ÊÁÏ
-https://mp.weixin.qq.com/s/poQT_V46ZeucCfx0ctIPvQ
+https://mp.weixin.qq.com/s/poQT_V46ZeucCfx0ctIPvQ  
+https://www.cnblogs.com/yanshw/p/15710460.html  
+
