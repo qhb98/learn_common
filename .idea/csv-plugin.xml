@@ -31,6 +31,41 @@
             </Attribute>
           </value>
         </entry>
+        <entry key="\VRP_Algorithms\data\MDCVRP\demand.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\VRP_Algorithms\data\MDCVRP\depot.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\VRP_Algorithms\data\MDHVRPTW\demand.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\VRP_Algorithms\data\MDHVRPTW\depot.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\VRP_Algorithms\data\MDVRPTW\depot.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
       </map>
     </option>
   </component>
